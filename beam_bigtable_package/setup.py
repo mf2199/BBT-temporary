@@ -6,10 +6,10 @@ import os
 import setuptools
 
 NAME = 'beam_bigtable'
-DESCRIPTION = 'Beam Bigtable'
-URL = 'https://github.com/juan-rael/beam_bigtable'
-EMAIL = 'juan@qlogic.io'
-AUTHOR = 'Juan Rael Corrales'
+DESCRIPTION = 'Apache Beam Bigtable Connector'
+URL = 'https://github.com/mf2199/'
+EMAIL = 'maxim.factourovich@qlogic.io'
+AUTHOR = 'Maxim Factourovich'
 REQUIRES_PYTHON = '>=2.7.0'
 VERSION = None
 REQUIRED = [
